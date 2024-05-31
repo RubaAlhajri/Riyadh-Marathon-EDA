@@ -44,7 +44,4 @@ Example analyses that can be performed using this dataset:
 - Finding the fastest time recorded for a participant to reach the finish line.
 - Estimating the proportion of international participants.
 
-## Additional Information
-
-For any questions or further information, please refer to the dataset's Kaggle page or contact the dataset provider.
 
